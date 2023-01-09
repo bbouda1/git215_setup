@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Bruno BOuda
+## Author: Bruno Bouda
